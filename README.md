@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Biografía y Horario de Clases</title>
+    <title>Soy estudiante de informática, con enormes deseos de aprender y ser buena en mi área.</title>
     <style>
         body {
             font-family: Arial, sans-serif;
